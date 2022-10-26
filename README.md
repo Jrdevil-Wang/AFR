@@ -15,7 +15,10 @@ These changes can be easily transplant to other versions.
 
 # Usage
 
-Just run <strong>build.sh</strong>. Note that this process will update your ROS library (libroscpp.so).
+Change the directories in <strong>build.sh</strong> to your ROS directories, if needed.
+
+Run <strong>build.sh</strong>. Note that this process will update your ROS library (libroscpp.so).
+
 Re-compile your ros application, and enjoy!
 
 # Citation
