@@ -13,3 +13,4 @@ catkin_make
 . ./install.sh
 
 echo "Build Finish. Please re-compile your ros application, and enjoy AFR!"
+
